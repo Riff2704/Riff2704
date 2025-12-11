@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyya there 
 I'm Rafie, a highschool student and a self taught fullstack developer in Malaysia.
 
 I design and create whatever sounds helpful for me or others.
@@ -12,5 +12,9 @@ Currently polishing a Voting website for a school project and creating a food or
 Fun Facts about me:
 
  -I love Cosplaying, Video games and caffeine
+ 
  -I have a cat and a kitten
+ 
  -If you can't tell I really like Furina (and also Scaramouche) from genshin Impact
+
+ -I love cities especially Kuala Lumpur
