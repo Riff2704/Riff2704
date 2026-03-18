@@ -3,15 +3,15 @@ I'm Rafie, a highschool student and a self taught fullstack developer in Malaysi
 
 I design and create whatever sounds helpful for me or others.
 
-Trying to get ahead of most competitors of the same field by starting early, I mean who doesn't want 3 years something experience by graduation? :p
+Trying to get ahead of most competitors of the same field by starting early, I mean who doesn't want 3 years something experience by graduation?
 
-My main tech stack is React-Django REST framework with Postgresql and MERN, and a bonus of MySQL.
+My main stack is React-SpringBoot framework with Postgresql, and a bonus of MySQL.
 
-Currently polishing a Voting website for a school project and creating a food ordering site for my girlfriend's made up cafe.
+Currently creating a food ordering site for my girlfriend's made up cafe.
 
 Fun Facts about me:
 
- -I love Cosplaying, Video games and caffeine
+ -I love Cosplaying, ACG Events, Video games and caffeine
  
  -I have a cat and a kitten
  
